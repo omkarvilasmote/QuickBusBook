@@ -1,0 +1,75 @@
+.nowabokkfinal{
+    width: 100%;
+    height: 100vh;
+    background-color: #00473e;
+   
+}
+
+.mainbookbus{
+    width: 50%;
+    height: 100vh;
+    float: left;
+    background-color: #f2f7f5;
+    color: #00473e;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+
+.busbooklast{
+    width: 50%;
+    /* height: 110vh; */
+    float: left;
+    /* background-color: #f2f7f5; */
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 98px;
+}
+
+.busbooklast h2{
+    color: #fffffe;
+}
+
+
+form{
+    font-size: larger;
+    color: #fffffe;
+}
+
+form input{
+    font-size: 18px;
+    padding: 8px;
+    width: 300px;
+    color: #fa5246;
+    outline: none;
+}
+
+form button{
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: #faae2b;
+    color: #00473e;
+    cursor: pointer;
+}
+
+
+.mainonelastbusdiv{
+    width: 50%;
+    height: 50vh;
+}
+
+
+.forQR{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 80%;
+    height: 60vh;
+    background-image: url("../img/QR.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}

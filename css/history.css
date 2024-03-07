@@ -1,0 +1,42 @@
+.mainonehistoy{
+
+    background-color: #00473e;
+    padding: 30px;
+}
+
+.mainhistory{
+    margin: 0 auto;
+    max-width: 1280px;
+    width: 95%;
+    width: 100%;
+    height: 30vh;
+    background-color: #f2f7f5;
+    background-image: url("../img/paid.png");
+    background-repeat: no-repeat;
+    background-position: right 80%;
+    background-size: 50%;
+}
+
+
+table{
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 30vh;
+}
+
+table tr td{
+    background-color: #faae2b;
+    color: #00332c;
+    border: 3px solid #00473e;
+    padding: 10px;
+    margin: 10px;
+}
+
+table tr th{
+    padding: 10px;
+    background-color: #f2f7f5;
+    border: 3px solid #00473e;
+    color: #fa5246;
+}

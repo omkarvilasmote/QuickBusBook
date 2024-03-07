@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* margin: 0 auto; */
+    /* max-width: 1280px; */
+    /* width: 95%; */
+    font-family: "Josefin Sans", sans-serif;
+    /* background-color: #f2f7f5; */
+}
+
+
+main{
+    background-color: #fffffe;
+    width: 100%;
+
+}
+
+table{
+    /* margin-top: 50px; */
+    margin: 0 auto;
+    max-width: 1280px;
+    width: 95%;
+}
+
+/* nav{
+    width: 30%;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+} */
+
+nav a button{
+    margin: 10px;
+    padding: 10px;
+background-color: #faae2b;
+color: #00473e;
+border: none;
+}
+
+
+
+
+.datashow{
+    border: 1px solid #00473e;
+    width: 100%;
+    height: 25vh;
+    
+    font-weight: 400;
+    background-color: #00473e;
+    color: #fffffe;
+    /* border: 1px #00473e; */
+    
+}
+
+
+.datashow td{
+    text-align: center;
+    /* border-radius: 10px; */
+/* padding: 10px; */
+margin: 10px;
+font-weight: bold;
+}
+
+.datashow td span{
+    /* font-style: bol; */
+    color: #ffa8ba;
+    /* font-weight: bold; */
+}
+
+.linkbooknow{
+    background-color: #faae2b;
+    padding: 10px;
+    color: #00473e;
+    font-weight: bold;
+
+    cursor: pointer;
+    border: none;
+    
+}

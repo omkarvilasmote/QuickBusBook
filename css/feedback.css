@@ -1,0 +1,42 @@
+.canwereview{
+    width: 100%;
+    height: 100vh;
+    background-color: #f2f7f5;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+/* form{
+    width: 60%;
+    height: 100vh;
+} */
+
+form label{
+    color: #475d5b;
+    font-size: 20px;
+    height: 20px;
+}
+
+form input{
+    padding: 8px;
+    font-size: 20px;
+    width: 300px;
+    color: #fa5246;
+    outline: none;
+}
+
+
+
+form h1{
+    color: #00473e;
+}
+
+form button{
+    padding: 12px;
+    background-color: #faae2b;
+    color: #00473e;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+}
